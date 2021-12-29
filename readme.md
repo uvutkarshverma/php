@@ -7,3 +7,7 @@ Complete Food ordering website with login, signup, addto cart, dashboard, order 
 
 see live Website :
 <a href="https://tghutkarsh.tk/food/">https://tghutkarsh.tk/food/</a>
+
+Random Quotes Website Using php :
+see live Website :
+<a href="https://tghutkarsh.tk/quote/">https://tghutkarsh.tk/quote/</a>

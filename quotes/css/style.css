@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+    letter-spacing: 2px !important;
+
+}
+.hedd{
+    justify-content: center !important;
+}
+.main{
+    min-height: 100vh;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .1);
+}
+.headin{
+    height: 40vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.quote{
+    min-height: 30vh;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 25px;
+    border: 1px dotted grey;
+}
+.quote p{
+    font-size: 1.4em;
+    font-weight: 600;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 10px 15px;
+    margin: 0;
+    letter-spacing: 2px;
+    line-height: 1.4;
+}
+
