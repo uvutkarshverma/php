@@ -1,0 +1,19 @@
+[23-Sep-2021 09:04:23 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[26-Sep-2021 05:02:13 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[27-Sep-2021 08:07:58 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[29-Sep-2021 06:38:59 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[30-Sep-2021 04:08:44 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[01-Oct-2021 04:33:22 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[02-Oct-2021 06:16:03 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[03-Oct-2021 06:10:48 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[04-Oct-2021 08:58:29 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[05-Oct-2021 07:09:57 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[08-Oct-2021 05:50:19 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[08-Oct-2021 05:50:31 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[09-Oct-2021 03:44:32 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[10-Oct-2021 05:32:35 asia/kolkata] PHP Notice:  Trying to access array offset on value of type bool in /home2/tamilro2/public_html/classes/class.user.php on line 33
+[10-Oct-2021 05:32:49 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[10-Oct-2021 05:33:00 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[10-Oct-2021 05:33:09 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[11-Oct-2021 03:30:27 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
+[11-Oct-2021 15:10:27 asia/kolkata] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home2/tamilro2/public_html/classes/class.user.php on line 22
