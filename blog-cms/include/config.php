@@ -29,13 +29,14 @@ spl_autoload_register('autoload');
 ob_start();
 session_start();
 define('DBHOST','localhost');
-define('DBUSER','tamilro2_root');
-define('DBPASS','9598801865Aa@');
-define('DBNAME','tamilro2_blog');
+define('DBUSER','qnastopc_admin');
+define('DBPASS','@sQJD+pIeQEm');
+define('DBNAME','qnastopc_qnastop');
 
 
 $db=new PDO("mysql:host=".DBHOST.";dbname=".DBNAME,DBUSER,DBPASS);
 $db->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
+
 
 date_default_timezone_set("asia/kolkata");
 

@@ -7,7 +7,7 @@ $row = $stmt->fetch();
 
 //if post does not exists redirect user.
 if ($row['article_id'] == '') {
-    header('Location: ./');
+    header('Location: ./not-found');
     exit;
 }
 //socia;l share
