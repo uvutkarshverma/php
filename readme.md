@@ -2,11 +2,10 @@ Hello visitor,
 
 This Repositary cOntains all Projects developed bY Utkarsh using mainly php.
 
-Food land -
-Complete Food ordering website with login, signup, addto cart, dashboard, order cancellation, and much more using mysql database.
+These projects are smaller and developed in early days .
+THese are very simple but significant.
 
-see live Website :
-<a href="https://tghutkarsh.tk/food/">https://tghutkarsh.tk/food/</a>
+These apps are usinf php for backend and html css js for frontend .
 
 
 
